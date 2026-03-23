@@ -1,7 +1,7 @@
 # GWAS
-A genome-wide association study (GWAS) on the relationship within in obesity, depression, and gastroesophageal reflux disease (GERD)
+This is a genome-wide association study (GWAS) on the relationship within in obesity, depression, and gastroesophageal reflux disease (GERD)
 
-Raw data sets (accessed from the Integrative Epidemiology Unit (IEU) OpenGWAS database https://opengwas.io): 
+### Raw data sets (accessed from the Integrative Epidemiology Unit (IEU) OpenGWAS database https://opengwas.io): 
 
 (1)	GERD_UKBB_QSKIN.gwas.gz
 
